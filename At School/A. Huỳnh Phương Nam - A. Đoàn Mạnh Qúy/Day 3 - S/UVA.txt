@@ -1,0 +1,4 @@
+UVA
+
+Back to the 8-Queens: http://uva.onlinejudge.org/external/110/11085.html
+Queue: http://uva.onlinejudge.org/external/101/10128.htm
